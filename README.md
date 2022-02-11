@@ -5,6 +5,4 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=white&https://www.linkedin.com/in/bilge-balga-88460a1bb/=https://www.linkedin.com/in/bilge-balga-88460a1bb/)](https://www.linkedin.com/in/bilge-balga-88460a1bb/) 
 
 
-
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=BilgeBalga&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=BilgeBalga&show_icons=true&theme=radical) 
