@@ -7,5 +7,3 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BilgeBalga&show_icons=true&theme=radical) 
 
-
-[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
