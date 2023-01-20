@@ -7,6 +7,3 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-001?style=quare&labelColor=001&logo=LinkedIn&logoColor=blue&https://www.linkedin.com/in/bilge-balga-88460a1bb/=https://www.linkedin.com/in/bilge-balga-88460a1bb/)](https://www.linkedin.com/in/bilge-balga-88460a1bb/) 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=BilgeBalga&show_icons=true&theme=radical) 
-
-
