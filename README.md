@@ -6,8 +6,7 @@
 - 💬 Ask me about **React, Vue, Swift, Fluttter**
 
 - 📫 How to reach me **bilbalga@gmail.com**
-
-- ⚡ Fun fact **I think I am friendly.**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
