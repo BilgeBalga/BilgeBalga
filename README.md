@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BilgeBalga?tab=repositories](https://github.com/BilgeBalga?tab=repositories)
 
-- 💬 Ask me about **React, Vue, Swift, Fluttter**
-
 - 📫 How to reach me **bilbalga@gmail.com**
 
 - ⚡ Fun fact **I think I am friendly.**
