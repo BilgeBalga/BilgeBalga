@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilge</h1>
 
-- 🔭 I’m currently working on **  Machine Learning (AI) with Python **
+- 🔭 I’m currently working on ** Machine Learning (AI) with Python**
 
 - 🌱 I’m currently learning **Swift.**
 
