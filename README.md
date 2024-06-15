@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilge</h1>
-<h3 align="center">Full Stack Developer Intern</h3>
 
-- 🔭 I’m currently working on **Go and Vue.**
+- 🔭 I’m currently working on **  Machine Learning (AI) with Python **
 
 - 🌱 I’m currently learning **Swift.**
 
