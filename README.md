@@ -8,10 +8,12 @@
 
 - 📫 How to reach me **bilbalga@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bilge-balga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilge-balga" height="30" width="40" /></a>
-</p>
+ ## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilge-balga-88460a1bb/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/bilgebalga)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
