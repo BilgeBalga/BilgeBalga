@@ -22,6 +22,6 @@
 [![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)](https://huggingface.co/bilgeee)
 
 ## 📬 Contact Us
-For any inquiries, please email us at: [bilbalga@gmail.com](mailto:bilbalga@gmail.com)
+For any inquiries, please email me at: [bilbalga@gmail.com](mailto:bilbalga@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgebalga&show_icons=true&locale=en" alt="bilgebalga" /></p>
