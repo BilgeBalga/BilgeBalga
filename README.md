@@ -24,8 +24,6 @@ For any inquiries, please email me at: [bilbalga@gmail.com](mailto:bilbalga@gmai
 [![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)](https://kaggle.com/bilgebalga)
 [![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)](https://huggingface.co/bilgeee)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgebalga&layout=compact&theme=dark" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgebalga&show_icons=true&locale=en" alt="bilgebalga" width="45%" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgebalga&layout=compact&theme=dark)
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgebalga&show_icons=true&locale=en" alt="bilgebalga" /></p> --!>
