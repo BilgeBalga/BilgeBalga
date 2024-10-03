@@ -25,7 +25,5 @@ For any inquiries, please email me at: [bilbalga@gmail.com](mailto:bilbalga@gmai
 [![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)](https://huggingface.co/bilgeee)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeBalgaa&layout=compact&theme=dark)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BilgeBalga&theme=react-dark)
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgebalga&show_icons=true&locale=en" alt="bilgebalga" /></p>
