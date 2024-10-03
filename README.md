@@ -6,7 +6,7 @@
 
 - 🐍 I primarily write in **Python** for my projects.
 
- ## Let's Connect!
+ ## 💻 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilge-balga-88460a1bb/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&color=87CEEB)](https://www.kaggle.com/bilgebalga)
