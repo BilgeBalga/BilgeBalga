@@ -12,6 +12,9 @@
   [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&color=87CEEB)](https://www.kaggle.com/bilgebalga)
    [![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/bilgeee)
 
+   ## 📬 Contact Me 
+For any inquiries, please email me at: [bilbalga@gmail.com](mailto:bilbalga@gmail.com)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -20,8 +23,5 @@
 ## 🤖 Work Areas
 [![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)](https://kaggle.com/bilgebalga)
 [![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)](https://huggingface.co/bilgeee)
-
-## 📬 Contact Us
-For any inquiries, please email me at: [bilbalga@gmail.com](mailto:bilbalga@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgebalga&show_icons=true&locale=en" alt="bilgebalga" /></p>
