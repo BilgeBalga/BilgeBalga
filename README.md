@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BilgeBalga?tab=repositories](https://github.com/BilgeBalga?tab=repositories)
 
--  📫 How to reach me **bilbalga@gmail.com**
+-  📫 Contact me: **bilbalga@gmail.com**
 
  ## 💻 Let's Connect!
 
