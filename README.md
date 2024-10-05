@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **Data Science and Artificial Intelligence (AI)** while continuously improving my skills.
 
-- 👨‍💻 All of my projects are available at [https://github.com/BilgeBalga?tab=repositories](https://github.com/BilgeBalga?tab=repositories)
-
 - 🐍 I primarily write in **Python** for my projects.
+
+- 👨‍💻 All of my projects are available at [https://github.com/BilgeBalga?tab=repositories](https://github.com/BilgeBalga?tab=repositories)
 
  ## 💻 Let's Connect!
 
