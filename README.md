@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilge</h1>
 
-- 🔭 I’m currently working on **Data Science and Artificial Intelligence (AI)** while continuously improving my skills.
-
 - 🐍 I primarily write in **Python** for my projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/BilgeBalga?tab=repositories](https://github.com/BilgeBalga?tab=repositories)
