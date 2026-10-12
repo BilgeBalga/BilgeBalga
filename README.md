@@ -21,13 +21,13 @@ https://github.com/BilgeBalga?tab=repositories
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&theme=dark&perline=4" alt="Databases" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
 ## Tools & Others
 
 ![Tools & Others](https://skillicons.dev/icons?i=github,git,npm&theme=dark)
 
-**Technologies included:** Python, C#, Swift, TypeScript, PowerShell, .NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, Node.js, Socket.io, Vue.js, Microsoft SQL Server, MongoDB, MySQL, SQLite, Redis, NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git, NPM.
+**Technologies included:** Python, C#, Swift, TypeScript, PowerShell, .NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, Node.js, Socket.io, Vue.js, MongoDB, MySQL, SQLite, Redis, NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git, NPM.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
