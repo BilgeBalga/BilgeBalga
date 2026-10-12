@@ -5,11 +5,46 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilge.codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilge-balga) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bilbalga) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 💻 Tech Stack
+
+## Languages
+
+![Languages](https://skillicons.dev/icons?i=python,cs,swift,ts,powershell,dotnet&theme=dark)
+
+## Frontend
+
+![Frontend](https://skillicons.dev/icons?i=jquery,nextjs,vue,npm&theme=dark)
+
+## Backend
+
+![Backend](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,socketio&theme=dark)
+
+## Databases
+
+![Databases](https://skillicons.dev/icons?i=mssql,mongodb,mysql,sqlite,redis&theme=dark)
+
+## Data & Machine Learning
+
+![Data and Machine
+Learning](https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,anaconda&theme=dark)
+
+## Tools & Others
+
+![Tools](https://skillicons.dev/icons?i=github,git,npm&theme=dark)
+
+**Technologies included:** Python, C#, Swift, TypeScript, PowerShell,
+.NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, NodeJS,
+Socket.io, Vue.js, Microsoft SQL Server, MongoDB, MySQL, SQLite, Redis,
+NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git.
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=BilgeBalga&theme=dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)`<br/>`{=html}
+![](https://streak-stats.demolab.com/?user=BilgeBalga&theme=dark&hide_border=true)`<br/>`{=html}
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+```{=html}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
