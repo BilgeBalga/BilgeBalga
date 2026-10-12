@@ -17,8 +17,6 @@ https://github.com/BilgeBalga?tab=repositories
 
 ![Tech Stack 1](https://skillicons.dev/icons?i=python,cs,swift,ts,powershell,dotnet,anaconda,django,fastapi,flask,jquery,nextjs,vue,nodejs&theme=dark)
 
-![Tech Stack 2](https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark)
-
 ## Databases
 
 <p align="left">
