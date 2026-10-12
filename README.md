@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🐍 👨‍💻 I'm a Software Developer, primarily working with Python to build software solutions.
+🐍 I'm a Software Developer, primarily working with Python to build software solutions.
 
 💻 I'm continuously improving my C# skills and expanding my .NET development knowledge.
 
