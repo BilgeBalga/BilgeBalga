@@ -29,12 +29,4 @@ https://github.com/BilgeBalga?tab=repositories
 
 **Technologies included:** Python, C#, Swift, TypeScript, PowerShell, .NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, Node.js, Socket.io, Vue.js, Microsoft SQL Server, MongoDB, MySQL, SQLite, Redis, NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git, NPM.
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=BilgeBalga&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
