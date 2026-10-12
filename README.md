@@ -21,7 +21,6 @@ https://github.com/BilgeBalga?tab=repositories
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&theme=dark&perline=4" alt="Databases" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
 ## Tools & Others
