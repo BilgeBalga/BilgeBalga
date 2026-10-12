@@ -19,20 +19,15 @@ https://github.com/BilgeBalga?tab=repositories
 
 ## Databases
 
-![Databases](https://skillicons.dev/icons?i=mssql,mongodb,mysql,sqlite,redis&theme=dark)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&theme=dark&perline=4" alt="Databases" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+</p>
 
 ## Tools & Others
 
 ![Tools & Others](https://skillicons.dev/icons?i=github,git,npm&theme=dark)
 
 **Technologies included:** Python, C#, Swift, TypeScript, PowerShell, .NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, Node.js, Socket.io, Vue.js, Microsoft SQL Server, MongoDB, MySQL, SQLite, Redis, NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git, NPM.
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=BilgeBalga&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
