@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Bilge</h1>
+# 💫 About Me:
 
-- 🐍 I primarily write in **Python** for my projects.
+🐍 I primarily write in Python for my projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/BilgeBalga?tab=repositories](https://github.com/BilgeBalga?tab=repositories)
+👨‍💻 All of my projects are available at
+https://github.com/BilgeBalga?tab=repositories
 
--  📫 Contact me: **bilbalga@gmail.com**
+📫 Contact me: bilbalga@gmail.com
 
- ## 💻 Let's Connect!
+## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilge-balga-88460a1bb/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&color=87CEEB)](https://www.kaggle.com/bilgebalga)
-   [![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/bilgeee)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilge.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilge-balga)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bilbalga)
 
 # 💻 Tech Stack
 
@@ -36,6 +36,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgebalga&show_icons=true&locale=en" alt="bilgebalga" /></p> --!>
