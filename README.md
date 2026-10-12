@@ -1,9 +1,17 @@
 # 💫 About Me:
-🐍 I primarily write in Python for my projects.<br><br>👨‍💻 All of my projects are available at https://github.com/BilgeBalga?tab=repositories<br><br>📫 Contact me: bilbalga@gmail.com
 
+🐍 I primarily write in Python for my projects.
+
+👨‍💻 All of my projects are available at
+https://github.com/BilgeBalga?tab=repositories
+
+📫 Contact me: bilbalga@gmail.com
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilge.codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilge-balga) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bilbalga) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilge.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilge-balga)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bilbalga)
 
 # 💻 Tech Stack
 
@@ -46,5 +54,3 @@ NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git.
 ```{=html}
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
