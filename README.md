@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-🐍 I primarily write in Python for my projects.
+🐍 👨‍💻 I'm a Software Developer, primarily working with Python to build software solutions.
 
-👨‍💻 All of my projects are available at
+💻 I'm continuously improving my C# skills and expanding my .NET development knowledge.
+
+🚀 All of my projects are available at
 https://github.com/BilgeBalga?tab=repositories
-
-📫 Contact me: bilbalga@gmail.com
 
 ## 🌐 Socials:
 
@@ -15,19 +15,27 @@ https://github.com/BilgeBalga?tab=repositories
 
 # 💻 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,cs,swift,ts,powershell,dotnet,anaconda,django,fastapi,flask,jquery,nextjs,vue,nodejs,socketio,numpy,pandas,sklearn,tensorflow&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=python,cs,swift,ts,powershell,dotnet,anaconda,django,fastapi,flask,jquery,nextjs,vue,nodejs,socketio,numpy,pandas,sklearn,tensorflow&theme=dark&perline=20)
 
 ## Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&theme=dark&perline=4" alt="Databases" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
 ## Tools & Others
 
-![Tools & Others](https://skillicons.dev/icons?i=github,git,npm&theme=dark)
+![Tools & Others](https://skillicons.dev/icons?i=github,git,npm&theme=dark&perline=3)
 
-**Technologies included:** Python, C#, Swift, TypeScript, PowerShell, .NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, Node.js, Socket.io, Vue.js, MongoDB, MySQL, SQLite, Redis, NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git, NPM.
+**Technologies included:** Python, C#, Swift, TypeScript, PowerShell, .NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, Node.js, Socket.io, Vue.js, Microsoft SQL Server, MongoDB, MySQL, SQLite, Redis, NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git, NPM.
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=BilgeBalga&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
