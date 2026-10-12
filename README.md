@@ -1,56 +1,41 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Bilge</h1>
 
-🐍 I primarily write in Python for my projects.
+- 🐍 I primarily write in **Python** for my projects.
 
-👨‍💻 All of my projects are available at
-https://github.com/BilgeBalga?tab=repositories
+- 👨‍💻 All of my projects are available at [https://github.com/BilgeBalga?tab=repositories](https://github.com/BilgeBalga?tab=repositories)
 
-📫 Contact me: bilbalga@gmail.com
+-  📫 Contact me: **bilbalga@gmail.com**
 
-## 🌐 Socials:
+ ## 💻 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilge.codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilge-balga)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bilbalga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilge-balga-88460a1bb/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&color=87CEEB)](https://www.kaggle.com/bilgebalga)
+   [![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/bilgeee)
+
 
 # 💻 Tech Stack
 
-## Languages
-
-![Languages](https://skillicons.dev/icons?i=python,cs,swift,ts,powershell,dotnet&theme=dark)
-
-## Frontend
-
-![Frontend](https://skillicons.dev/icons?i=jquery,nextjs,vue,npm&theme=dark)
-
-## Backend
-
-![Backend](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,socketio&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=python,cs,swift,ts,powershell,dotnet,anaconda,django,fastapi,flask,jquery,nextjs,vue,nodejs,socketio,numpy,pandas,sklearn,tensorflow&theme=dark)
 
 ## Databases
 
 ![Databases](https://skillicons.dev/icons?i=mssql,mongodb,mysql,sqlite,redis&theme=dark)
 
-## Data & Machine Learning
-
-![Data and Machine
-Learning](https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,anaconda&theme=dark)
-
 ## Tools & Others
 
-![Tools](https://skillicons.dev/icons?i=github,git,npm&theme=dark)
+![Tools & Others](https://skillicons.dev/icons?i=github,git,npm&theme=dark)
 
-**Technologies included:** Python, C#, Swift, TypeScript, PowerShell,
-.NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, NodeJS,
-Socket.io, Vue.js, Microsoft SQL Server, MongoDB, MySQL, SQLite, Redis,
-NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git.
+**Technologies included:** Python, C#, Swift, TypeScript, PowerShell, .NET, Anaconda, Django, FastAPI, Flask, jQuery, NPM, Next.js, Node.js, Socket.io, Vue.js, Microsoft SQL Server, MongoDB, MySQL, SQLite, Redis, NumPy, Pandas, scikit-learn, TensorFlow, GitHub, Git, NPM.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)`<br/>`{=html}
-![](https://streak-stats.demolab.com/?user=BilgeBalga&theme=dark&hide_border=true)`<br/>`{=html}
+![](https://github-readme-stats.shion.dev/api?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=BilgeBalga&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilgeBalga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-```{=html}
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
+
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgebalga&show_icons=true&locale=en" alt="bilgebalga" /></p> --!>
